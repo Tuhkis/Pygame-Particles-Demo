@@ -1,0 +1,10 @@
+{
+	"shrink": 10,
+	"lifetime": 3,
+	"tone_variance": 6,
+	"colour": [255, 150, 30],
+	"velocity_randomness": [[-32, 32], [-32, 32]],
+	"initial_velocity": [1, 1],
+	"radius": 16,
+	"gravity": [0, 238]
+}
